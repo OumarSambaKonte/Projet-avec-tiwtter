@@ -1,0 +1,76 @@
+/*Général*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*Logo*/
+
+.logo
+{
+    margin-top:30px ;
+    margin-left: 700px;
+}
+.titre
+{
+font-family: arial;
+margin-left: 640px;
+margin-top: 15px;
+}
+.main
+{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+/*form*/
+table tr td input cover
+{
+    margin-top: 20px;
+    padding-top: 30pxs;
+    color: white;
+}
+table tr td input
+{
+    outline-style: none;
+}
+input
+{
+    padding-bottom: 30px;
+    width: 600px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(0, 153, 255)
+ 
+}
+button
+{
+    color: white;
+    width: 600px;
+    height: 50px;
+   background-color:rgba(0, 153, 255, 0.5) ;
+   border-top: none;
+border-left: none;
+border-right: none;
+border-bottom: none;
+border-radius: 30px;
+margin-top: 10px;  
+}
+.lien
+{
+    margin-top: 20px;
+}
+.forgot
+{
+    margin-top: 30px;
+    margin-left: 670px ;
+}
+a 
+{
+    color:#0099ff ;
+}
+.sign
+{
+    margin-top:-18px;
+    margin-left:800px ;
+}
